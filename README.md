@@ -1,4 +1,4 @@
-# 📊 IMC App
+# 📊 HealthPlanner
 
 Aplicación móvil Android para calcular el **Índice de Masa Corporal (IMC)**, visualizar resultados y gestionar tareas de salud personalizadas según el resultado obtenido.
 
